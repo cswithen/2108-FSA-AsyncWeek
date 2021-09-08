@@ -6,11 +6,24 @@ The following sections are related links or resource documents that pertain to e
 
 <details><summary>Design Links</summary>
 
-- [Good UI][good-ui]
-- [awwards][awwards]
+- Design Inspirations
+  - [Good UI][good-ui]
+  - [awwards][awwards]
+  - [behance][behance]
+- Icon Repositories
+  - [Flat Icon][flat-icon]
+  - [Noun Project][noun-project]
+- Stock Images / Videos
+  - [Unsplash][unsplash]
+  - [Pexels][pexels]
 
 [good-ui]: https://goodui.org/leaks/
 [awwards]: https://www.awwwards.com/
+[behance]: https://www.behance.net/
+[flat-icon]: https://www.flaticon.com/
+[noun-project]: https://thenounproject.com/
+[unsplash]: https://unsplash.com/
+[pexels]: https://www.pexels.com/
 
 </details>
 
