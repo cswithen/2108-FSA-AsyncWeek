@@ -4,6 +4,8 @@ The following sections are related links or resource documents that pertain to e
 
 ## **01-Intro to Figma**
 
+An introduction to Figma, some of it's shortcuts, and features. As well as some brief exposure to some design theory or concepts to think about.
+
 <details><summary>Design Links</summary>
 
 - Design Inspirations
