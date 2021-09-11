@@ -55,9 +55,13 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 - Color:
 
   - [myColor.space][color-space]: Enter in one color to get a multitude of color combinations.
+  - [adobe Color][adobe-color]: Explore based on keywords to get some color palettes that have been created, as well as create your own!
+  - [coolors.co][coolors]: Generate or browse beautiful color combinations for your designs.
 
 - UI / UX:
 
+  - [FlowMapp][flow-mapp]: Great central resource for a bunch of guidelines for web design
+  - [Chrome's Accessibility Tools][chrome-accessibility]: A collection of tools you can use in your browser to look at how your website is setup for accessibility.
   - [GoodUI][good-ui]: Collection of tested UIs, great for looking at best practices; be sure to navigate to the 'leaks' page as most everything else is behind a paywall.
   - [Flat Icon][flat-icon]: Icon repository to use on your projects; includes colored icons.
   - [Noun Project][noun-project] : Another Icon repository, mainly black and white colors.
@@ -73,6 +77,10 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
   [noun-project]: https://thenounproject.com/
   [unsplash]: https://unsplash.com/
   [pexels]: https://www.pexels.com/
+  [adobe-color]: https://color.adobe.com/explore
+  [chrome-accessibility]: https://developer.chrome.com/docs/devtools/accessibility/reference/
+  [coolors]: https://coolors.co/
+  [flow-mapp]: https://www.flowmapp.com/blog/glossary
 
 </details>
 
