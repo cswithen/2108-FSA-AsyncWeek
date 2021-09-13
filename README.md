@@ -4,9 +4,13 @@ The following sections are related links or resource documents that pertain to e
 
 ## **01-Command Line: Let’s Learn Some Tricks**
 
-### **WITH GREAT POWER COMES WITH IT GREAT RESPONSIBILITY**
+### WITH GREAT POWER COMES WITH IT GREAT RESPONSIBILITY
 
 Use these commands only if you fully understand what they do before you type them. The training wheels are off.
+
+[ss64][ss64] : _Command line reference for Windows CMD, PowerShell, MacOS and Linux bash. Also includes Oracle, SQL Server database, and VBscript commands_
+
+[ss64]: https://ss64.com/
 
 ## **02-Iterators & Generators**
 
