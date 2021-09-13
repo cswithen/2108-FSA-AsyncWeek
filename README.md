@@ -2,20 +2,6 @@
 
 The following sections are related links or resource documents that pertain to each optional async week lecture.
 
-This repository contains submodules of the other instructor's repositories so cloning down is a **little different**
-
-```
-git clone --recursive [URL to git Repo]
-```
-
-Pulling all changes in the repo including changes in the submodules
-
-```
-git pull --recurse-submodules
-
-git submodule update --remote
-```
-
 ---
 
 ## **01-Command Line: Let’s Learn Some Tricks**
