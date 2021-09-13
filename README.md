@@ -12,6 +12,8 @@ Pulling all changes in the repo including changes in the submodules
 
 ```
 git pull --recurse-submodules
+
+git submodule update --remote
 ```
 
 ---
