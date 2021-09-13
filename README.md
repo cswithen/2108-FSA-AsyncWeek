@@ -2,7 +2,13 @@
 
 The following sections are related links or resource documents that pertain to each optional async week lecture.
 
-## **01-Intro to Figma**
+## **01-Command Line: Let’s Learn Some Tricks**
+
+## WITH GREAT POWER COMES WITH IT GREAT RESPONSIBILITY
+
+### Use these commands only if you fully understand what they do before you type them. The training wheels are off.
+
+## **03-Intro to Figma**
 
 An introduction to Figma, some of it's shortcuts, and features. As well as some brief exposure to some design theory or concepts to think about. Checkout the Readme in the Folder for additional information / resources.
 
@@ -26,9 +32,11 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 <details><summary>Lecture Content </summary>
 
+- [Slide Deck][slides] : Link to the google slides of the course
 - [Chack-Demo][chack-demo] : Recreation and demo of some of the tools within Figma that Cody used to map out and design his capstone project
 
 [chack-demo]: https://www.figma.com/file/7cn59KtIduwdn3jOYKCecF/Chack-Demo?node-id=0%3A1
+[slides]: https://docs.google.com/presentation/d/1Q3MCTYok-Z-iZqOoWQpUrA6qAKtJDc522NrFf2eL5v8/edit?usp=sharing
 
  </details>
 
@@ -88,7 +96,7 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 ---
 
-## **02-Design to Code**
+## **04-Design to Code**
 
 <details><summary>Links</summary>
 
@@ -102,7 +110,7 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 ---
 
-## **03-React Hooks**
+## **05-React Hooks**
 
 <details><summary>Links</summary>
 
@@ -116,7 +124,7 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 ---
 
-## **04-Git Together**
+## **06-Git Together**
 
 <details><summary>Links</summary>
 
