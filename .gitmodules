@@ -1,0 +1,6 @@
+[submodule "01-CommandLine/cmdline_async_workshop"]
+	path = 01-CommandLine/cmdline_async_workshop
+	url = https://github.com/zacharyad/cmdline_async_workshop
+[submodule "02-IteratorsAndGenerators/iterators-and-generators-demo"]
+	path = 02-IteratorsAndGenerators/iterators-and-generators-demo
+	url = https://github.com/bartdorsey/iterators-and-generators-demo.git
