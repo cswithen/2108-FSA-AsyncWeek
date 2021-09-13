@@ -1,3 +1,9 @@
 [submodule "01-commandLine"]
 	path = 01-commandLine
 	url = https://github.com/zacharyad/cmdline_async_workshop.git
+[submodule "02-Iterators"]
+	path = 02-Iterators
+	url = https://github.com/bartdorsey/iterators-and-generators-demo.git
+[submodule "02-Iterators-Generators"]
+	path = 02-Iterators-Generators
+	url = https://github.com/bartdorsey/iterators-and-generators-demo.git
