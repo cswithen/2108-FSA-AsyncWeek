@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: lightgray;
+}
+
+nav {
+    display: flex;
+}
+
+button {
+    margin: 10px;
+}
+
+main {
+    display: flex;
+}
+
+ul {
+    padding: 10px;
+    margin: 10px;
+}
+
+#dogImages {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#dogImages img {
+    border-radius: 10px;
+    margin: 10px;    
+    height: 200px;
+}
+
+
+.fruit {
+    font-size: 16pt;
+}
