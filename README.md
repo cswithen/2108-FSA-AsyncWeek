@@ -2,6 +2,12 @@
 
 The following sections are related links or resource documents that pertain to each optional async week lecture.
 
+Due to the unique nature of submodules, follow the instructions below:
+
+```
+git clone --recurse-submodules [URL Path HERE]
+```
+
 ---
 
 ## **01-Command Line: Let’s Learn Some Tricks**
