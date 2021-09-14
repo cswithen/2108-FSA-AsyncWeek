@@ -73,9 +73,13 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 - [Slide Deck][slides] : Link to the google slides of the course
 - [Chack-Demo][chack-demo] : Recreation and demo of some of the tools within Figma that Cody used to map out and design his capstone project
+- [Live Coding Example][live-coding] : Project file that we did during lecture!
+- [Video!][video]: Here is the recording of the lecture
 
 [chack-demo]: https://www.figma.com/file/7cn59KtIduwdn3jOYKCecF/Chack-Demo?node-id=0%3A1
 [slides]: https://docs.google.com/presentation/d/1Q3MCTYok-Z-iZqOoWQpUrA6qAKtJDc522NrFf2eL5v8/edit?usp=sharing
+[live-coding]: https://www.figma.com/community/file/1019678177714379962/FSA---Intro-to-Figma-Demo
+[video]: https://youtu.be/ErNJpxtydyA
 
  </details>
 
@@ -150,7 +154,7 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
   - [Material Design Icons][material-icons]
   - [Pexels][pexels]
   - [Streamline Icons][streamline-icons]
-  - [Unsplash][unsplash]
+  - [Unsplash][unsplash-pi]
 - Color
   - [Color Palettes][color-palettes]
   - [Color Search][color-search]
@@ -195,7 +199,7 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 [sitemap]: https://www.figma.com/community/plugin/818613147082270958/Sitemap
 [remove-bg]: https://www.figma.com/community/plugin/738992712906748191/Remove-BG
 [wireframe]: https://www.figma.com/community/plugin/742764242781786818/Wireframe
-[unsplash]: https://www.figma.com/community/plugin/738454987945972471/Unsplash
+[unsplash-pi]: https://www.figma.com/community/plugin/738454987945972471/Unsplash
 [unused-components]: https://www.figma.com/community/plugin/838413521721548186/Unused-Components
 
 </details>
