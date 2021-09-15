@@ -238,7 +238,7 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 ## **06-Git Together**
 
-<details><summary>Links</summary>
+<details><summary>Resources</summary>
 
 - [Slide Deck][slides] : Link to the google slides of the course
 - [repo][workshop]: workshop
