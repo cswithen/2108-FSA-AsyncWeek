@@ -4,3 +4,6 @@
 [submodule "02-IteratorsAndGenerators/iterators-and-generators-demo"]
 	path = 02-IteratorsAndGenerators/iterators-and-generators-demo
 	url = https://github.com/bartdorsey/iterators-and-generators-demo.git
+[submodule "04-DesignToCode/figma-storybook"]
+	path = 04-DesignToCode/figma-storybook
+	url = https://github.com/iseykim/figma-storybook.git
