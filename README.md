@@ -4,8 +4,24 @@ The following sections are related links or resource documents that pertain to e
 
 Due to the unique nature of submodules, follow the instructions below:
 
+### **If this is your first time cloning it down:**
+
 ```
 git clone --recurse-submodules [URL Path HERE]
+```
+
+### **If you are pulling again after an update:**
+
+If a repo has been added as a submodule you will have to initialize the submodule on your side after you pull with:
+
+```
+git submodule init
+```
+
+Then you can recursivley pull all the submodules with:
+
+```
+git pull --recurse-submodules
 ```
 
 ---
@@ -212,11 +228,11 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 <details><summary>Links</summary>
 
-- [Good UI][good-ui]
-- [awwards][awwards]
+- [Video][dtc-video]
+- [repo][dtc-repo]
 
-[good-ui]: https://goodui.org/leaks/
-[awwards]: https://www.awwwards.com/
+[dtc-video]: https://www.youtube.com/watch?v=eTSKLmYt_Gk
+[dtc-repo]: https://github.com/iseykim/figma-storybook
 
 ## </details>
 
