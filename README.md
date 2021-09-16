@@ -112,15 +112,15 @@ Get an student account!
 
 <details><summary>Lecture Content </summary>
 
-- [Slide Deck][slides] : Link to the google slides of the course
+- [Slide Deck][slides-itf] : Link to the google slides of the course
 - [Chack-Demo][chack-demo] : Recreation and demo of some of the tools within Figma that Cody used to map out and design his capstone project
 - [Live Coding Example][live-coding] : Project file that we did during lecture!
-- [Video!][video]: Here is the recording of the lecture
+- [Video!][video-itf]: Here is the recording of the lecture
 
 [chack-demo]: https://www.figma.com/file/7cn59KtIduwdn3jOYKCecF/Chack-Demo?node-id=0%3A1
-[slides]: https://docs.google.com/presentation/d/1Q3MCTYok-Z-iZqOoWQpUrA6qAKtJDc522NrFf2eL5v8/edit?usp=sharing
+[slides-itf]: https://docs.google.com/presentation/d/1Q3MCTYok-Z-iZqOoWQpUrA6qAKtJDc522NrFf2eL5v8/edit?usp=sharing
 [live-coding]: https://www.figma.com/community/file/1019678177714379962/FSA---Intro-to-Figma-Demo
-[video]: https://youtu.be/ErNJpxtydyA
+[video-itf]: https://youtu.be/ErNJpxtydyA
 
  </details>
 
