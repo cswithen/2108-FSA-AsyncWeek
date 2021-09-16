@@ -10,3 +10,6 @@
 [submodule "06-GitTogether/git-together"]
 	path = 06-GitTogether/git-together
 	url = https://github.com/helsung/git-together.git
+[submodule "01-CommandLine/cmdline_async_workshop"]
+	path = 01-CommandLine/cmdline_async_workshop
+	url = https://github.com/zacharyad/cmdline_async_workshop.git
