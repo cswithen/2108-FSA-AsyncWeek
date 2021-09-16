@@ -7,3 +7,6 @@
 [submodule "04-DesignToCode/figma-storybook"]
 	path = 04-DesignToCode/figma-storybook
 	url = https://github.com/iseykim/figma-storybook.git
+[submodule "05-ReactHooks/GoodieBag.Solution"]
+	path = 05-ReactHooks/GoodieBag.Solution
+	url = https://github.com/cartanb/GoodieBag.Solution
