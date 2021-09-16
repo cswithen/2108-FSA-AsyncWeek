@@ -12,6 +12,12 @@ git clone --recurse-submodules [URL Path HERE]
 
 ### **If you are pulling again after an update:**
 
+In the folder do the normal:
+
+```
+git pull
+```
+
 If a repo has been added as a submodule you will have to initialize the submodule on your side after you pull with:
 
 ```
@@ -85,7 +91,7 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 Get an student account!
 
-1. [Go Here][go-here]
+1. [Go Here][go-here] : or type in figma education in google
 1. Click on Get Verified
 1. It will ask you to create an account or sign in
 
