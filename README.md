@@ -83,6 +83,25 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 > Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes in real-time on mobile devices.
 
+Get an student account!
+
+1. [Go Here][go-here]
+1. Click on Get Verified
+1. It will ask you to create an account or sign in
+
+   - If you havent verified your account you will get an email to do so
+
+1. It will redirect you to a subsequent page:
+
+   - Follow through the form
+   - Once you reach "_What is your school's name_" the very first item in the dropdown is "_School not listed_"
+   - Type in Fullstack Academy, follow the rest of the form and submit
+   - after about 48 hours your account should get approved
+
+1. Start Designing!
+
+[go-here]: https://www.figma.com/education/
+
 ## Links
 
 <details><summary>Lecture Content </summary>
