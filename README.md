@@ -238,12 +238,12 @@ An introduction to Figma, some of it's shortcuts, and features. As well as some 
 
 ## **06-Git Together**
 
-<details><summary>Links</summary>
+<details><summary>Resources</summary>
 
-- [Good UI][good-ui]
-- [awwards][awwards]
+- [Slide Deck][slides] : Link to the google slides of the course
+- [repo][workshop]: workshop
 
-[good-ui]: https://goodui.org/leaks/
-[awwards]: https://www.awwwards.com/
+[slides]: https://docs.google.com/presentation/d/1rriVqX4uA2sU8XzA_84cOT6uRGGirwyAVNkT193d6SE/edit#slide=id.gef26c87547_0_264
+[workshop]: https://github.com/helsung/git-together
 
 </details>
