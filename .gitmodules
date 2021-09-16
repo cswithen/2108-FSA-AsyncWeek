@@ -10,3 +10,6 @@
 [submodule "05-ReactHooks/GoodieBag.Solution"]
 	path = 05-ReactHooks/GoodieBag.Solution
 	url = https://github.com/cartanb/GoodieBag.Solution
+[submodule "06-GitTogether/git-together"]
+	path = 06-GitTogether/git-together
+	url = https://github.com/helsung/git-together.git
