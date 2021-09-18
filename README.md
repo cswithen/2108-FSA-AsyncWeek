@@ -283,8 +283,10 @@ Get an student account!
 
 - [Slide Deck][slides] : Link to the google slides of the course
 - [repo][workshop]: workshop
+- [video][video]: video
 
 [slides]: https://docs.google.com/presentation/d/1rriVqX4uA2sU8XzA_84cOT6uRGGirwyAVNkT193d6SE/edit#slide=id.gef26c87547_0_264
 [workshop]: https://github.com/helsung/git-together
+[video]: https://www.youtube.com/watch?v=miY-EVXksSQ
 
 </details>
