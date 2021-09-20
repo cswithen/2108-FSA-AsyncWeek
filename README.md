@@ -267,11 +267,11 @@ Get an student account!
 
 <details><summary>Links</summary>
 
-- [Good UI][good-ui]
-- [awwards][awwards]
+- [Video][rh-video]
+- [Repo][rh-repo]
 
-[good-ui]: https://goodui.org/leaks/
-[awwards]: https://www.awwwards.com/
+[rh-video]: https://www.youtube.com/watch?v=_M7JcWMkjBY
+[rh-repo]: https://github.com/cartanb/GoodieBag.Solution/
 
 ## </details>
 
